@@ -1,1 +1,1 @@
-"# hash-generator" 
+# hash-generator
